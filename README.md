@@ -1,4 +1,4 @@
-# SmartLightingController
+# SmartIoTLightingController
 - 2019년 2분기
 
 ![image](https://github.com/Neibce/SmartLightingController/assets/18096595/2d6e1e09-381f-40c7-be49-4a78a26b2fb5)|![image](https://github.com/Neibce/SmartLightingController/assets/18096595/b69148f8-df2f-48ab-9683-f22e67eb392d)|![image](https://github.com/Neibce/SmartLightingController/assets/18096595/479e4382-2dd3-4102-bee3-eede00262368)
