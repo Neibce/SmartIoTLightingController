@@ -1,9 +1,12 @@
 # SmartLightingController
 - 2019년 2분기
 
-![image](https://github.com/Neibce/SmartLightingController/assets/18096595/9631dd3f-6658-43b5-bd86-844958e6a922)|![image](https://github.com/Neibce/SmartLightingController/assets/18096595/3c2f9311-0071-40c1-8e24-4b77a03b5d9f)|![image](https://github.com/Neibce/SmartLightingController/assets/18096595/5f7628e8-c7a2-44be-802f-b7361fb3ea7c)
+![image](https://github.com/Neibce/SmartLightingController/assets/18096595/2d6e1e09-381f-40c7-be49-4a78a26b2fb5)|![image](https://github.com/Neibce/SmartLightingController/assets/18096595/b69148f8-df2f-48ab-9683-f22e67eb392d)|![image](https://github.com/Neibce/SmartLightingController/assets/18096595/479e4382-2dd3-4102-bee3-eede00262368)
 |--|--|--|
-![image](https://github.com/Neibce/SmartLightingController/assets/18096595/5ceb76f3-e01b-46ab-b279-5b8955a5abc0)|![image](https://github.com/Neibce/SmartLightingController/assets/18096595/355bc363-e48c-4899-ac45-16e6d7e8d50a)|![image](https://github.com/Neibce/SmartLightingController/assets/18096595/fabce6b3-572b-4b83-87e7-f7ea841b80fc)
-![image](https://github.com/Neibce/SmartLightingController/assets/18096595/bc35bed5-7344-4d75-9a79-30e424b48262)|![image](https://github.com/Neibce/SmartLightingController/assets/18096595/6f823f47-4cc2-4280-a6f0-5a60f486c014)|
+
+
+![image](https://github.com/Neibce/SmartLightingController/assets/18096595/747285d8-b730-4412-b859-f71f4c145ccf)|![image](https://github.com/Neibce/SmartLightingController/assets/18096595/599a26bd-f621-40bc-a1d0-12c1640c9fdc)|![image](https://github.com/Neibce/SmartLightingController/assets/18096595/10c980ab-e4ca-4d34-aa75-40eab1802a6b)
+|--|--|--|
+![image](https://github.com/Neibce/SmartLightingController/assets/18096595/0155b78b-b3fa-4049-ba6c-5a3f4c712fb5)|![image](https://github.com/Neibce/SmartLightingController/assets/18096595/d3e55886-404e-468b-b0e2-6bd6a89479f9)|
 
 
